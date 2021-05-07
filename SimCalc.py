@@ -1,0 +1,10 @@
+#SIMPLE CALCULATOR
+A=int(input("Enter the Number:"))
+B=int(input("Enter the Number:"))
+print("The Addition is:",(A+B))
+print("The Subtraction is:",(A-B))
+print("The Multiplication is:",(A*B))
+print("The Division is:",(A/B))
+print("The Power is:",(A**B))
+print("The Floor Division:",(A//B)," is the Quotient")
+print("The Modulus:",(A%B)," is the Remainder")
